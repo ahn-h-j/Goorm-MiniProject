@@ -9,7 +9,7 @@
     <!--  UPDATE  -->
     <update id="update" parameterType="io.goorm.mini.domain.Admin"> UPDATE ADMIN SET admin_name = #{admin.adminName}, admin_id = #{admin.adminId} , admin_pw = #{admin.adminPw} WHERE admin_seq = #{admin.adminSeq} </update>
     <!--  UPDATE  -->
-    <update id="updateUseYn" parameterType="io.goorm.mini.domain.Admin"> UPDATE VIDEOS SET use_yn = #{admin.useYn} WHERE admin_seq = #{admin.adminSeq} </update>
+    <update id="updateUseYn" parameterType="io.goorm.mini.domain.Admin"> UPDATE VIDEO SET use_yn = #{admin.useYn} WHERE admin_seq = #{admin.adminSeq} </update>
     <!--  DELETE  -->
     <delete id="delete" parameterType="long"> DELETE FROM ADMIN WHERE admin_seq = #{admin.videoSeq} </delete>
 </mapper>
