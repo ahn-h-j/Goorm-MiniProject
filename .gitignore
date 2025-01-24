@@ -2,9 +2,8 @@
 /.gradle/
 /build/
 /build/classes/java/main/
-/d:/logs/application.log
+/src/main/resources/drive
 /youtube.sql
-/d:/logs/*.gz
 /src/main/resources/static/img/*.png
 /src/main/resources/static/upload/thumnail/*.png
 /src/main/resources/static/upload/vod/*.mp4
