@@ -7,3 +7,4 @@
 /src/main/resources/static/img/*.png
 /src/main/resources/static/upload/thumnail/*.png
 /src/main/resources/static/upload/vod/*.mp4
+/.idea/encodings.xml
