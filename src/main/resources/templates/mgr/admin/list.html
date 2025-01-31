@@ -17,10 +17,10 @@
         </thead>
         <tbody>
             <!-- 여기에는 반복되는 행이 들어갑니다 -->
-            <tr>
+            <tr th:each="post : ${posts}">
                 <td class="border px-4 py-2">1</td>
-                <td class="border px-4 py-2">홍길동</td>
-                <td class="border px-4 py-2">hong@example.com</td>
+                <td class="border px-4 py-2" th:text="${post.adminId}"><a th:href="/mgr/">아이디</a></td>
+                <td class="border px-4 py-2" th:text="${post.adminName}">이름</td>
                 <td class="border px-4 py-2">
                     <a href="#" class="text-blue-500 hover:underline">수정</a>
                     <a href="#" class="text-red-500 hover:underline ml-2">삭제</a>
