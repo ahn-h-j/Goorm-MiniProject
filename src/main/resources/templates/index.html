@@ -9,7 +9,7 @@
         <!-- Video Card (repeated 12 times) -->
         <article class="flex flex-col gap-2" th:each="video : ${videos}">
             <div class="aspect-video bg-gray-100 dark:bg-zinc-800 rounded-lg overflow-hidden">
-                <img  th:src="${video.videoThumnail}" alt="Video thumbnail" class="w-full h-full object-cover">
+                <video th:src="${video.video}" controls alt="Video thumbnail" class="w-full h-full object-cover" />
             </div>
             <div class="flex gap-2">
                 <div class="flex-shrink-0">
