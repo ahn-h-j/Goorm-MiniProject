@@ -2,6 +2,7 @@ package io.goorm.mini.admin.controller;
 
 import io.goorm.mini.mapper.AdminMapper;
 import io.goorm.mini.domain.Admin;
+import io.goorm.mini.service.AdminService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -14,18 +15,22 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 @RequestMapping("/mgr")
 public class  AdminController {
 
+    AdminService adminService;
     AdminMapper adminMapper;
 
     @Autowired
-    public AdminController(AdminMapper adminMapper) {
+    public AdminController(AdminService adminService, AdminMapper adminMapper) {
+        this.adminService = adminService;
         this.adminMapper = adminMapper;
+
     }
 
     //리스트
     @GetMapping("/admins")
     public String list(Model model) {
 
-        // model.addAttribute("posts", adminSe.getBoards());
+         model.addAttribute("posts", adminService.findAll());
+         model.addAttribute("title", "관리자관리-리스트" );
 
         return "mgr/admin/list";
     }
