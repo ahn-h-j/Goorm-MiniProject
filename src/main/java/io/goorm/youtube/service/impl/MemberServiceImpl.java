@@ -62,4 +62,7 @@ public class MemberServiceImpl implements MemberService {
         return memberMapper.updateUseYn(member);
     }
 
+    public int updateUseYn(Member member) {
+        return memberMapper.updateUseYn(member);
+    }
 }
