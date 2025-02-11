@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70d765a7-2584-419d-a635-c31482052ac9" name="변경" comment="fix(view) : 화면 표시내역 변환">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mini" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ahn-h-j&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ahn-h-j/Goorm-ToyProject.git&quot;,
+    &quot;accountId&quot;: &quot;21b6d403-2822-41ec-8472-79cce2ddf3c4&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rbBAdGss9YADpTQw8dQTndKrDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.Build Goorm Mini Project.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Goorm Mini Project 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MiniApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ahnhyeongjun/Desktop/Goorm Mini Project/src/main/resources/il8n&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/il8n" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="fdb71dc2-49d9-4b8b-88f5-ce0a138e70e0" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="mini.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.goorm.mini.MiniApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="70d765a7-2584-419d-a635-c31482052ac9" name="변경" comment="" />
+      <created>1736817751927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736817751927</updated>
+      <workItem from="1736817753398" duration="17000" />
+      <workItem from="1736817970533" duration="7379000" />
+      <workItem from="1736986893757" duration="932000" />
+      <workItem from="1737375454483" duration="2377000" />
+      <workItem from="1737594862061" duration="5867000" />
+      <workItem from="1737642716555" duration="1544000" />
+      <workItem from="1737679047828" duration="27010000" />
+      <workItem from="1737765243672" duration="6079000" />
+      <workItem from="1737801934125" duration="2653000" />
+      <workItem from="1738203789874" duration="8094000" />
+      <workItem from="1738290889465" duration="3595000" />
+      <workItem from="1738365826730" duration="1222000" />
+      <workItem from="1738541697681" duration="5000" />
+      <workItem from="1738563849314" duration="341000" />
+      <workItem from="1738643227985" duration="2287000" />
+      <workItem from="1738660096536" duration="1412000" />
+      <workItem from="1738714642411" duration="67000" />
+      <workItem from="1738716405589" duration="610000" />
+      <workItem from="1738758663696" duration="600000" />
+      <workItem from="1739252171231" duration="689000" />
+    </task>
+    <task id="LOCAL-00016" summary="feat(domain) : Admin.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692363372</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692363372</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(domain) : Member.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692372052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692372052</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat(domain) : Admin.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692427969</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692427969</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat(domain) : Member.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692434547</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692434547</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat(mapper) : 관리자 관련 SQL 추가&#10;&#10;AdminMapper.java&#10;AdminMapper.xml">
+      <option name="closed" value="true" />
+      <created>1737692477741</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692477741</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat(mapper) : 멤버 관련 SQL 추가&#10;&#10;MemberMapper.java&#10;MemberMapper.xml">
+      <option name="closed" value="true" />
+      <created>1737692499693</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692499693</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat(controller) : 메인페이지 호출 controller&#10;&#10;IndexController.java">
+      <option name="closed" value="true" />
+      <created>1737692556353</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692556353</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat(service) : MemberService.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692603466</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692603466</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat(service) : AdminService.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692612911</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692612911</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat(domain) : Video.java 추가">
+      <option name="closed" value="true" />
+      <created>1737692623024</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692623024</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix(mapper) : vo -&gt; domain 변경">
+      <option name="closed" value="true" />
+      <created>1737692659461</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692659461</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat(mapper) : 추가 함수 구현&#10;&#10;selectById, insert, update, updatePublishYn, updateDeleteYn, delete">
+      <option name="closed" value="true" />
+      <created>1737692715487</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692715487</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fix(controller) : url 경로 수정, 함수명 수정">
+      <option name="closed" value="true" />
+      <created>1737692746989</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692746989</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat(service) : 함수 추가&#10;&#10;findIndex(), findAll(), find(), save(), update(), updatePublishYn(), updateDeleteYn()">
+      <option name="closed" value="true" />
+      <created>1737692855188</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692855188</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix(controller) : url 경로 수정, 함수명 수정">
+      <option name="closed" value="true" />
+      <created>1737692892315</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1737692892315</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat(controller) : 이미지, 영상 gitignore 추가">
+      <option name="closed" value="true" />
+      <created>1737693032420</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693032420</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat(controller) : 이미지, 영상 gitignore 추가">
+      <option name="closed" value="true" />
+      <created>1737693092520</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693092520</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat(view) : layout 추가&#10;&#10;admin-layout.html&#10;list.html&#10;view.html">
+      <option name="closed" value="true" />
+      <created>1737693198678</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693198678</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat(view) : create.html 추가">
+      <option name="closed" value="true" />
+      <created>1737693233751</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693233751</updated>
+    </task>
+    <task id="LOCAL-00035" summary="feat(view) : update.html 추가">
+      <option name="closed" value="true" />
+      <created>1737693240571</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693240571</updated>
+    </task>
+    <task id="LOCAL-00036" summary="chore(config) : gitignore 추가&#10;&#10;이미지 파일, 영상 파일">
+      <option name="closed" value="true" />
+      <created>1737693284503</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1737693284503</updated>
+    </task>
+    <task id="LOCAL-00037" summary="chore(config) : Jasypt 추가&#10;&#10;JasyptConfig.java 추가&#10;build.gradle : Jasypt 의존성 추가&#10;application.properties : password 암호화, encryptor 위치 설정">
+      <option name="closed" value="true" />
+      <created>1737698994719</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1737698994719</updated>
+    </task>
+    <task id="LOCAL-00038" summary="chore(config) : gitignore 경로 변경&#10;&#10;/d:/logs/application.log -&gt; /src/main/resources/drive">
+      <option name="closed" value="true" />
+      <created>1737699038302</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1737699038302</updated>
+    </task>
+    <task id="LOCAL-00039" summary="feat(view) : join.html 추가">
+      <option name="closed" value="true" />
+      <created>1737735368854</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735368854</updated>
+    </task>
+    <task id="LOCAL-00040" summary="feat(view) : login.html 추가">
+      <option name="closed" value="true" />
+      <created>1737735375158</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735375158</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat(config) : 로그인 기능 추가&#10;&#10;PasswordUtil.java 추가&#10;spring-security-crypto 의존성 추가">
+      <option name="closed" value="true" />
+      <created>1737735465109</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735465109</updated>
+    </task>
+    <task id="LOCAL-00042" summary="chore(config) : Thymeleaf 메시지 기능 추가">
+      <option name="closed" value="true" />
+      <created>1737735532084</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735532084</updated>
+    </task>
+    <task id="LOCAL-00043" summary="feat(controller) : MemberController.java 추가&#10;&#10;로그인 기능">
+      <option name="closed" value="true" />
+      <created>1737735567621</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735567621</updated>
+    </task>
+    <task id="LOCAL-00044" summary="feat(view) : home-layout.html 추가&#10;&#10;홈 화면 layout">
+      <option name="closed" value="true" />
+      <created>1737735657888</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735657888</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix(mapper) : 테이블명 수정&#10;&#10; VIDEOS -&gt; VIDEO">
+      <option name="closed" value="true" />
+      <created>1737735748753</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735748753</updated>
+    </task>
+    <task id="LOCAL-00046" summary="feat(mapper) : 함수 추가&#10;&#10;selectByMemberId(), existsById()">
+      <option name="closed" value="true" />
+      <created>1737735779923</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735779923</updated>
+    </task>
+    <task id="LOCAL-00047" summary="feat(mapper) : SQL문 추가&#10;&#10;selectByMemberId, existsById">
+      <option name="closed" value="true" />
+      <created>1737735805881</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735805881</updated>
+    </task>
+    <task id="LOCAL-00048" summary="feat(service) : 함수 추가&#10;&#10;login(), existsById()">
+      <option name="closed" value="true" />
+      <created>1737735831055</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735831055</updated>
+    </task>
+    <task id="LOCAL-00049" summary="feat(controller) : controller 식별자 추가">
+      <option name="closed" value="true" />
+      <created>1737735846719</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735846719</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix(mapper) : 테이블명 수정&#10;&#10;VIDEOS -&gt; VIDEO">
+      <option name="closed" value="true" />
+      <created>1737735871869</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735871869</updated>
+    </task>
+    <task id="LOCAL-00051" summary="feat(domain) : 필드 추가&#10;&#10;title, content, channelName">
+      <option name="closed" value="true" />
+      <created>1737735904039</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1737735904039</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fix(view) : layout 추가로 인한 변경">
+      <option name="closed" value="true" />
+      <created>1737736014526</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1737736014526</updated>
+    </task>
+    <task id="LOCAL-00053" summary="feat(view) : layout 추가">
+      <option name="closed" value="true" />
+      <created>1737736038906</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1737736038906</updated>
+    </task>
+    <task id="LOCAL-00054" summary="feat(view) : 임시화면에서 메인화면으로 변경">
+      <option name="closed" value="true" />
+      <created>1737736056062</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1737736056062</updated>
+    </task>
+    <task id="LOCAL-00055" summary="fix(controller) : 의존성 주입 방식 변경">
+      <option name="closed" value="true" />
+      <created>1738206978054</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1738206978054</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fix(properties) : 인코딩 방식 utf-8로 변경">
+      <option name="closed" value="true" />
+      <created>1738207003163</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207003163</updated>
+    </task>
+    <task id="LOCAL-00057" summary="chore(config) : WebConfig.java 추가&#10;&#10;파일 업로드 셋팅">
+      <option name="closed" value="true" />
+      <created>1738207035346</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207035346</updated>
+    </task>
+    <task id="LOCAL-00058" summary="feat(controller) : VideoController.java 추가&#10;&#10;파일 업로드용 controller">
+      <option name="closed" value="true" />
+      <created>1738207053500</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207053500</updated>
+    </task>
+    <task id="LOCAL-00059" summary="chore(config) : WebConfig.java, FileUploadUtil.java 추가&#10;&#10;파일 업로드 셋팅">
+      <option name="closed" value="true" />
+      <created>1738207094340</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207094340</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fix(mapper) : sql 수정">
+      <option name="closed" value="true" />
+      <created>1738207408205</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207408205</updated>
+    </task>
+    <task id="LOCAL-00061" summary="feat(view) : create.html 추가&#10;&#10;파일 업로드 view">
+      <option name="closed" value="true" />
+      <created>1738207441530</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207441530</updated>
+    </task>
+    <task id="LOCAL-00062" summary="fix(config) : gitignore 항목 추가">
+      <option name="closed" value="true" />
+      <created>1738207559404</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1738207559404</updated>
+    </task>
+    <task id="LOCAL-00063" summary="fix(view) : 썸네일 영상으로 전환">
+      <option name="closed" value="true" />
+      <created>1738290283389</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1738290283389</updated>
+    </task>
+    <task id="LOCAL-00064" summary="fix(view) : 화면 표시내역 변환">
+      <option name="closed" value="true" />
+      <created>1738290306151</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1738290306151</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(view) : login.html 추가" />
+    <MESSAGE value="feat(config) : 로그인 기능 추가&#10;&#10;PasswordUtil.java 추가&#10;spring-security-crypto 의존성 추가" />
+    <MESSAGE value="chore(config) : Thymeleaf 메시지 기능 추가" />
+    <MESSAGE value="feat(controller) : MemberController.java 추가&#10;&#10;로그인 기능" />
+    <MESSAGE value="feat(view) : home-layout.html 추가&#10;&#10;홈 화면 layout" />
+    <MESSAGE value="fix(mapper) : 테이블명 수정&#10;&#10; VIDEOS -&gt; VIDEO" />
+    <MESSAGE value="feat(mapper) : 함수 추가&#10;&#10;selectByMemberId(), existsById()" />
+    <MESSAGE value="feat(mapper) : SQL문 추가&#10;&#10;selectByMemberId, existsById" />
+    <MESSAGE value="feat(service) : 함수 추가&#10;&#10;login(), existsById()" />
+    <MESSAGE value="feat(controller) : controller 식별자 추가" />
+    <MESSAGE value="fix(mapper) : 테이블명 수정&#10;&#10;VIDEOS -&gt; VIDEO" />
+    <MESSAGE value="feat(domain) : 필드 추가&#10;&#10;title, content, channelName" />
+    <MESSAGE value="fix(view) : layout 추가로 인한 변경" />
+    <MESSAGE value="feat(view) : layout 추가" />
+    <MESSAGE value="feat(view) : 임시화면에서 메인화면으로 변경" />
+    <MESSAGE value="fix(controller) : 의존성 주입 방식 변경" />
+    <MESSAGE value="fix(properties) : 인코딩 방식 utf-8로 변경" />
+    <MESSAGE value="chore(config) : WebConfig.java 추가&#10;&#10;파일 업로드 셋팅" />
+    <MESSAGE value="feat(controller) : VideoController.java 추가&#10;&#10;파일 업로드용 controller" />
+    <MESSAGE value="chore(config) : WebConfig.java, FileUploadUtil.java 추가&#10;&#10;파일 업로드 셋팅" />
+    <MESSAGE value="fix(mapper) : sql 수정" />
+    <MESSAGE value="feat(view) : create.html 추가&#10;&#10;파일 업로드 view" />
+    <MESSAGE value="fix(config) : gitignore 항목 추가" />
+    <MESSAGE value="fix(view) : 썸네일 영상으로 전환" />
+    <MESSAGE value="fix(view) : 화면 표시내역 변환" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(view) : 화면 표시내역 변환" />
+  </component>
+</project>
