@@ -5,8 +5,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d765a7-2584-419d-a635-c31482052ac9" name="변경" comment="fix(view) : 화면 표시내역 변환">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.11.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/MiniApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/admin/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/admin/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/common/util/FileUploadUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/common/util/PasswordUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/config/JasyptConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/controller/VideoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/domain/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/domain/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/domain/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/mapper/AdminMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/mapper/MemberMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/mapper/VideoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/service/AdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/io/goorm/mini/service/VideoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/io/goorm/mini/MiniApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log.2025-01-25.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log.2025-01-26.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log.2025-01-27.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log.2025-01-30.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/logs/application.log.2025-01-31.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/secure/secure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/upload/thumbnail/66da67fb-38c6-4df6-b063-c694497cc7c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/upload/thumbnail/79b26b6b-a559-4290-b50e-0940a0416737.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/upload/vod/70e9b3fb-6b14-4d99-9e79-24c81dde8396.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/drive/upload/vod/ab315d91-3470-4ed4-988d-8e9fed765b79.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/i18n/messages_ko.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/i18n/messages_ko.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mappers/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mappers/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mappers/MemberMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mappers/MemberMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/mappers/VideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mappers/VideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/join.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/join.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout/admin-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout/admin-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout/home-layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout/home-layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/admin/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/member/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/member/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/mgr/member/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/mgr/member/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/video/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/video/create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/AdminController.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log.2025-01-25.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log.2025-01-26.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log.2025-01-27.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log.2025-01-30.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/logs/application.log.2025-01-31.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/secure/secure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/upload/thumbnail/66da67fb-38c6-4df6-b063-c694497cc7c0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/upload/thumbnail/79b26b6b-a559-4290-b50e-0940a0416737.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/upload/vod/70e9b3fb-6b14-4d99-9e79-24c81dde8396.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drive/upload/vod/ab315d91-3470-4ed4-988d-8e9fed765b79.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +99,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="mini" type="f1a62948:ProjectNode" />
+                <item name="youtube" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -77,36 +147,40 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Gradle.Build Goorm Mini Project.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Goorm Mini Project 빌드.executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MiniApplication.executor&quot;: &quot;Run&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ahnhyeongjun/Desktop/Goorm Mini Project/src/main/resources/il8n&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.Build Goorm Mini Project.executor": "Run",
+    "Gradle.Goorm Mini Project 빌드.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.MiniApplication.executor": "Run",
+    "Spring Boot.YoutubeApplication.executor": "Run",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ahnhyeongjun/Goorm Mini Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/goorm/youtube/vo" />
+      <recent name="$PROJECT_DIR$/src/main/java/io/goorm/youtube" />
       <recent name="$PROJECT_DIR$/src/main/resources/il8n" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
@@ -116,7 +190,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/static" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.YoutubeApplication">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -155,6 +229,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YoutubeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="youtube.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.goorm.youtube.YoutubeApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.goorm.youtube.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YoutubeApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -192,6 +285,7 @@
       <workItem from="1738716405589" duration="610000" />
       <workItem from="1738758663696" duration="600000" />
       <workItem from="1739252171231" duration="689000" />
+      <workItem from="1739254282031" duration="641000" />
     </task>
     <task id="LOCAL-00016" summary="feat(domain) : Admin.java 추가">
       <option name="closed" value="true" />
