@@ -58,4 +58,10 @@
         DELETE FROM member WHERE member_seq = #{memberSeq}
     </delete>
 
+    <update id="resetPw" parameterType="io.goorm.youtube.vo.domain.Member">
+        UPDATE member
+        SET member_pw = #{member.memberPw}
+        WHERE member_id = #{member.memberId}
+    </update>
+
 </mapper>

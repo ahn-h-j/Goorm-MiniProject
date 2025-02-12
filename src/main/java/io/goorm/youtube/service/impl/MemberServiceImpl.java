@@ -65,4 +65,9 @@ public class MemberServiceImpl implements MemberService {
     public int updateUseYn(Member member) {
         return memberMapper.updateUseYn(member);
     }
+
+    public int resetPw(Member member) {
+        log.debug("in service");
+        return memberMapper.resetPw(member);
+    }
 }

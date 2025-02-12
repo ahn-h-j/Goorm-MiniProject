@@ -16,6 +16,8 @@ public interface MemberService {
 
     public Member find(Long seq);
 
+    public int resetPw(Member member);
+
     public boolean existsById(String seq);
 
     public int save(Member member);
